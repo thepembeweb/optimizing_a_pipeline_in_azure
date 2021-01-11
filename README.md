@@ -29,3 +29,5 @@ This model is then compared to an Azure AutoML run.
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
 **Image of cluster marked for deletion**
+
+https://docs.google.com/document/d/18lJAYS-H7xSuCYe67PEwnO__HJss1WRck5dsUi4OPd0/edit?usp=sharing
